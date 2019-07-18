@@ -1,6 +1,4 @@
 import express from 'express';
-import { x } from './xd'
-import { elo } from './elo/elo'
 
 const app = express();
 const port = 8080;
